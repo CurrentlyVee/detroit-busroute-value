@@ -1,8 +1,10 @@
 # Detroit Bus Route and Parcel Value Data
 Data have been combined from City of Detroit "Parcel" and "DDOT Bus Routes" data. Parcel's within 100 feet of a DDOT route have been coded as being along a bus route.
 
-Detroit parcel data: https://data.detroitmi.gov/datasets/detroitmi::parcels-2/about
-DDOT bus route data: https://data.detroitmi.gov/datasets/detroitmi::ddot-bus-routes-1/about
+<ul>
+  <li>Detroit parcel data: https://data.detroitmi.gov/datasets/detroitmi::parcels-2/about</li>
+  <li>DDOT bus route data: https://data.detroitmi.gov/datasets/detroitmi::ddot-bus-routes-1/about</li>
+<li>Parcel and DDOT spatial overlay: https://docs.google.com/spreadsheets/d/1_INzgDLTkqELgNQCW00E7tT123hNX4iQ/edit?usp=sharing&ouid=105039616787298568701&rtpof=true&sd=true</li>
 
 ## Data dictonary
 User created variables
